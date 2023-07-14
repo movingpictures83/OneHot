@@ -1,0 +1,2 @@
+Prefix plugins/OneHot/example/
+Plugin OneHot inputfile parameters.txt outputfile none
